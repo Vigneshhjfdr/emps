@@ -1,0 +1,1 @@
+{"uuid":"7ffc8aea-abb6-4052-ad22-009cefc8eebd","name":"allure.test","children":["907efa7f-5025-4646-ac84-8e39003939db"],"befores":[{"name":"driverInitialization","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1658387869921,"stop":1658387875302}],"afters":[],"links":[],"start":1658387869862,"stop":1658387886120}
